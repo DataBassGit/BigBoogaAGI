@@ -24,7 +24,7 @@ Using a virtual environment helps avoid conflicts with system-wide packages.
 - **Create a Virtual Environment**:
 
   ```shell
-  python3 -m venv venv
+  python3.11 -m venv venv
   ```
 
 - **Activate the Virtual Environment**:
